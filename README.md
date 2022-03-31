@@ -31,7 +31,7 @@ The following **additional** features are implemented:
 
 - [ ] List anything else that you can get done to improve the app functionality!
 
-## Video Walkthrough
+![unit4gif](https://user-images.githubusercontent.com/98965497/161117968-639e5f60-011f-42ad-b5ee-436caadc655b.gif)
 
 Here's a walkthrough of implemented user stories:
 
@@ -63,3 +63,4 @@ Describe any challenges encountered while building the app.
     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
     See the License for the specific language governing permissions and
     limitations under the License.
+
